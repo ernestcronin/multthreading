@@ -2,6 +2,9 @@ package com.ecronin.multithreading;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+/**
+ * API DOC: http://localhost:8082/swagger-ui/index.html
+ */
 
 @SpringBootApplication
 public class MultithreadingApplication {
